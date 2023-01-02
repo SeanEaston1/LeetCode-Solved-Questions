@@ -10,7 +10,7 @@
 <h2>
 📂 Topics Covered :
 </h2>
-<img align="right" width="45%" src="https://github.com/SeanEaston1/LeetCode-Solved-Questions/blob/main/images.png">
+<img align="right" width="55%" src="https://github.com/SeanEaston1/LeetCode-Solved-Questions/blob/main/images.png">
 
 - [x] Arrays 
 - [ ] Searching & Sorting
