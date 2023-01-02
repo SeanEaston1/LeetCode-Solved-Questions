@@ -1,8 +1,7 @@
-<h1 align="center">✨ Welcome to my LeetCode Solutions Repository! </h1>
+<h1 align="center">
+✨ Welcome to my LeetCode Solutions Repository! <br>
 
-<h2>
-⚜️ LeetCode Profile : <a href="https://leetcode.com/SeanEaston/">SeanEaston1</a>
-</h2>
+</h1>
 
 <h2>
 👨🏻‍💻Programming Language : Java
@@ -11,7 +10,7 @@
 <h2>
 📂 Topics Covered :
 </h2>
-<img align="right" width="35%" src="https://github.com/SeanEaston1/LeetCode-Solved-Questions/blob/main/images.png">
+<img align="right" width="45%" src="https://github.com/SeanEaston1/LeetCode-Solved-Questions/blob/main/images.png">
 
 - [x] Arrays 
 - [ ] Searching & Sorting
@@ -41,3 +40,5 @@ ____
 - I hope that these solutions can serve as a reference for others who are also working on these problems, or who are simply interested in seeing how others have approached them. Please feel free to **use, modify, or suggest improvements** to any of the solutions as you see fit.
 
 - I will be **continuously updating** this repository as I work on new problems, so be sure to check back regularly for updates. If you have any questions or feedback, don't hesitate to reach out to me. *Happy coding!*
+
+- ⚜️ My LeetCode Profile : <a href="https://leetcode.com/SeanEaston/">SeanEaston1</a>
