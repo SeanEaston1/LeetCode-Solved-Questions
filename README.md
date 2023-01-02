@@ -1,7 +1,7 @@
 <h1 align="center">✨ Welcome to my LeetCode Solutions Repository! </h1>
 
 <img align="right" width="300" src="https://github.com/SeanEaston1/LeetCode-Solved-Questions/blob/main/images.png">
-<br>
+
 <h3 align="left">
 
 👨🏻‍💻 *Programming Language* : Java
