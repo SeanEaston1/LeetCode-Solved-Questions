@@ -1,10 +1,9 @@
 <h1 align="center">
-✨ Welcome to my LeetCode Solutions Repository! <br>
-
+✨ Welcome to my LeetCode Solutions Repository! ✨ <br>
 </h1>
 
-<h2>
-👨🏻‍💻Programming Language : Java
+<h2 >
+👨🏻‍💻Programming Language used : Java
 </h2>
 
 <h2>
