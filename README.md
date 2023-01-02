@@ -1,7 +1,5 @@
 <h1 align="center">✨ Welcome to my LeetCode Solutions Repository! </h1>
 
-<img align="right" width="60%" src="https://github.com/SeanEaston1/LeetCode-Solved-Questions/blob/main/images.png">
-
 <h2>
 ⚜️ LeetCode Profile : <a href="https://leetcode.com/SeanEaston/">SeanEaston1</a>
 </h2>
@@ -13,6 +11,7 @@
 <h2>
 📂 Topics Covered :
 </h2>
+<img align="right" width="35%" src="https://github.com/SeanEaston1/LeetCode-Solved-Questions/blob/main/images.png">
 
 - [x] Arrays 
 - [ ] Searching & Sorting
